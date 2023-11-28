@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "file-saver": "^2.0.5",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.7.1",
     "next": "14.0.3",
+    "papaparse": "^5.4.1",
     "react": "^18",
     "react-dom": "^18",
-    "sass": "^1.69.5"
+    "react-modal": "^3.16.1",
+    "react-spring": "^9.7.3",
+    "sass": "^1.69.5",
+    "xlsx": "^0.18.5"
   }
 }
